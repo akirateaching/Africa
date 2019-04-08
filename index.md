@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+<!--- https://akirateaching.github.io/Miltary-Bases/-->
+**African Countries**
+- [Level 0 - Learn country names](http://www.sheppardsoftware.com/Africa/Africa_GL_1024_768.html)
+- [Level 1 - Click the correct country by name](http://www.sheppardsoftware.com/Africa/Africa_G0_1024_768.html)
+- [Level 2 - Drag country to correct spot by region](http://www.sheppardsoftware.com/Africa/Africa_G1_1024_768.html)
+- [Level 3 - Drag country on to map](http://www.sheppardsoftware.com/Africa/Africa_G2_1024_768.html)
+- [Level 4 - Click on the mape where the country should be](http://www.sheppardsoftware.com/Africa/Africa_G3_1024_768.html)
+- [Level 5 - Type first 3 levels of country on map](http://www.sheppardsoftware.com/Africa/Africa_G4_1024_768.html)
 
-You can use the [editor on GitHub](https://github.com/akirateaching/Africa/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**African Geography**
+- [Level 0 - Learn the basic geography](http://www.sheppardsoftware.com/Africa-georegion.html)
+- [Level 1 - Click the correct location](http://www.sheppardsoftware.com/Africa-georegion-click.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**African Rivers**
+- [Level 0 - Learn the basic rivers](http://www.sheppardsoftware.com/Africa-rivers.html)
+- [Level 1 - Click the correct location](http://www.sheppardsoftware.com/Africa-rivers-click.html)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akirateaching/Africa/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Make an animal**
+- [SwitchZoo](https://switchzoo.com/zoo-original.htm)
