@@ -1,4 +1,4 @@
-<!--- https://akirateaching.github.io/Miltary-Bases/-->
+<!--- https://akirateaching.github.io/Africa/-->
 **African Countries**
 - [Level 0 - Learn country names](http://www.sheppardsoftware.com/Africa/Africa_GL_1024_768.html)
 - [Level 1 - Click the correct country by name](http://www.sheppardsoftware.com/Africa/Africa_G0_1024_768.html)
