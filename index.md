@@ -14,6 +14,3 @@
 **African Rivers**
 - [Level 0 - Learn the basic rivers](http://www.sheppardsoftware.com/Africa-rivers.html)
 - [Level 1 - Click the correct location](http://www.sheppardsoftware.com/Africa-rivers-click.html)
-
-**Make an animal**
-- [SwitchZoo](https://switchzoo.com/zoo-original.htm)
